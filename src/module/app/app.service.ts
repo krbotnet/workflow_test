@@ -4,6 +4,6 @@ import { injectable } from 'tsyringe'
 export class appService {
   constructor() {}
   hello() {
-    console.log('Hello TypeScript')
+    console.log('Hello TypeScript !!!')
   }
 }
